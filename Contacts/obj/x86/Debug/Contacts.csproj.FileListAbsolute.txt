@@ -1,0 +1,30 @@
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\Contacts\bin\Debug\Contacts.exe
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\Contacts\bin\Debug\Contacts.pdb
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\Contacts.MainForm.resources
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\Contacts.exe
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\Contacts\obj\x86\Debug\Contacts.pdb
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.exe
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.MainForm.resources
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\ContactsDB.sdf
+c:\users\сергей королев\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\Сергей\Documents\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\Сергей\Documents\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.exe
+C:\Users\Сергей\Documents\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
+C:\Users\Сергей\Documents\Projects\Contacts\Contacts\bin\Debug\ContactsDB.sdf
+C:\Users\Сергей\Documents\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\Сергей\Documents\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\Сергей\Documents\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.MainForm.resources
+C:\Users\Сергей\Documents\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+C:\Users\Сергей\Documents\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.csproj.GenerateResource.Cache
